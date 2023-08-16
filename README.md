@@ -15,7 +15,7 @@ $ npm start
 
 <br></br>
 ## 실행 영상
-<img src="https://github.com/leedain0106/wanted-pre-onboarding-backend/assets/63581721/69847fb0-8a47-43b8-9c36-ae1cec4320f6" width=1000 height=600 /> 
+<img src="https://github.com/leedain0106/wanted-pre-onboarding-backend/assets/63581721/05def3a2-f27e-4454-acba-d0c74aaa9423" width=1000 height=600 /> 
 
 
 <br></br>
